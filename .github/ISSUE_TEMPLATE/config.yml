@@ -1,8 +1,12 @@
-blank_issues_enabled: true
+# GitHub Issues are switched off in every Pegasuz repository: issues live in Linear.
+blank_issues_enabled: false
 contact_links:
+  - name: Issues live in Linear
+    url: https://linear.app/pegasuz
+    about: Pegasuz devs file and triage issues there, team ENG. Tenants use Soporte inside the product.
   - name: Security vulnerability
     url: https://github.com/pegasuzhq/.github/blob/main/SECURITY.md
     about: Do not open an issue. Report it privately.
   - name: Customer support
     url: https://pegasuz.com.ar
-    about: Questions about using Pegasuz are not handled in the issue tracker.
+    about: Questions about using Pegasuz are not handled in an issue tracker.
