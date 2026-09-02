@@ -2,8 +2,9 @@
 
 **Security vulnerability?** Do not open an issue. See `SECURITY.md`.
 
-**Found a bug or want a feature?** Open an issue in the repository it affects,
-using the templates.
+**Found a bug or want a feature?** Issues live in Linear (`linear.app/pegasuz`),
+not on GitHub; a Pegasuz dev files it there. A tenant reports it from the
+admin or the POS through **Soporte**, which reaches the same place.
 
 **A question about using Pegasuz as a customer?** Contact us through
 [pegasuz.com.ar](https://pegasuz.com.ar) — the issue tracker is for engineering
