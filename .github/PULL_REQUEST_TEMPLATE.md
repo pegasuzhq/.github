@@ -4,9 +4,8 @@
 
 ## Why
 
-<!-- The problem or requirement behind it. First line: Closes ENG-123 (or Part of ENG-123). -->
-
-Closes 
+<!-- The problem or requirement behind it. First line, one of:
+     Closes ENG-123 · Part of ENG-123 · No issue: <the ask, one line> (S-tier, done on the spot) -->
 
 ## How verified
 

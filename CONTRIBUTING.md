@@ -47,6 +47,12 @@ Spanish for everything a customer reads: interface copy, site content, SEO.
 - The body's first line names the issue: `Closes ENG-123`, or `Part of ENG-123`
   for a partial change. The merge moves the issue to Merged; Done is set by the
   handoff with evidence, never by the merge.
+- **Not every change has an issue.** S-tier work done in the session that asked
+  for it — a width, a label, a one-file fix — opens none: the first line is
+  `No issue: <the ask, one line>` and the pull request is its record. An issue
+  exists when the work waits for another session, splits across people or
+  repositories, is a lane (M and above: the lane's key), or is a finding nobody
+  asked for.
 - Rebase merge. Keep the history linear.
 
 ## Never
