@@ -11,7 +11,9 @@ run it, which gates must pass, what not to touch — lives there, not here.
 ## Branches and commits
 
 - Branch from the default branch with the name Linear generates for the issue
-  (`user/eng-123-slug`). A branch carries the key or it is not tracker work.
+  (`user/eng-123-slug`). A branch carries the key or it is not tracker work;
+  work with no issue (S-tier done on the spot, under Pull requests) branches as
+  `user/<slug>` — the same shape without a key.
 - [Conventional commits](https://www.conventionalcommits.org): `feat:`, `fix:`,
   `docs:`, `chore:`, `refactor:`, `test:`.
 - One reason per commit. If the message needs an "and", it is two commits.
