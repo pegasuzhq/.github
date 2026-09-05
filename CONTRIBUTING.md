@@ -8,6 +8,12 @@ The baseline for every Pegasuz repository. A repository that ships its own
 Read the repository's `AGENTS.md` and `README.md`. Anything specific — how to
 run it, which gates must pass, what not to touch — lives there, not here.
 
+Every repository works under **AE**, the agent-engineering method
+([`pegasuzhq/Agent-Engineering`](https://github.com/pegasuzhq/Agent-Engineering)):
+the tiers, the lane, verification by command, the handoff. Good practice is
+law here: every PR passes the gates its `CONTRIBUTING.md` names, and a rule
+with no gate and no skill is not a rule.
+
 ## Branches and commits
 
 - Branch from the default branch with the name Linear generates for the issue
